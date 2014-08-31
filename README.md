@@ -1,0 +1,2 @@
+rubyアプリケーションdeploy用の環境をVagrantVM上にChefで作成する。
+rubyはrbenv, VMのOSはcentOS

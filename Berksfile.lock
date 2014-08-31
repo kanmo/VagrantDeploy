@@ -1,0 +1,6 @@
+DEPENDENCIES
+  ruby-env
+    path: site-cookbooks/ruby-env
+
+GRAPH
+  ruby-env (0.1.0)
